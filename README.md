@@ -1,17 +1,17 @@
-**NAME:**PRETHIKSHA J
-**COMPANY:**CODETECH IT SOLUTION
-**ID:**CT08DS9507**
-**DOMAIN:**MACHINE LEARNING
-**DURATION:**OCTOBER 23RD TO NOVEMBER 23RD,2024
+*NAME:*PRETHIKSHA J
+*COMPANY:*CODETECH IT SOLUTION
+*ID:CT08DS9507*
+*DOMAIN:*MACHINE LEARNING
+*DURATION:*OCTOBER 23RD TO NOVEMBER 23RD,2024
 
 ##OVERVIEW OF THE PROJECT
 
 ###PROJECT:LINEAR REGRESSION ON HOUSING PRICES
 
-**OBJECTIVE:**
+*OBJECTIVE:*
 This project focuses on building a linear regression model to predict housing prices based on several key features such as square footage, number of bedrooms, and location. The main objective is to explore how these features influence housing prices and use this information to develop a predictive model.
 
-### Key Steps in the Project:
+### Key Steps in the Project:
 
 1. **Data Collection**: 
    - We use the Boston Housing dataset, a well-known dataset in machine learning that includes various attributes of homes (e.g., average number of rooms, crime rate, accessibility to highways) and their corresponding prices.
