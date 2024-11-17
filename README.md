@@ -43,6 +43,9 @@ This project focuses on building a linear regression model to predict housing pr
 - To build a reliable linear regression model capable of predicting housing prices based on multiple features.
 - To identify the most significant factors affecting housing prices.
 - To evaluate and interpret the model's performance through relevant metrics and diagnostic tools.
+- ![image](https://github.com/user-attachments/assets/ab5def4a-0947-4228-a20c-f68759361316)
+
+
 
 This project provides a practical example of how linear regression can be applied to real-world problems, particularly in the housing market, where pricing predictions are critical for both buyers and sellers.
 
